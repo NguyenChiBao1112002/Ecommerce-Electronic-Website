@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Pangea';
+    src: url('./fonts/pangea/PangeaAfrikanTrial-Medium.woff2') format('woff2'),
+         url('./fonts/pangea/PangeaAfrikanTrial-Medium.woff') format('woff');
+}

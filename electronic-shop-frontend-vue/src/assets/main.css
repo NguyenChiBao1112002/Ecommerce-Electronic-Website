@@ -1,0 +1,56 @@
+@import './font.css';
+
+.my-50 {
+  margin: 50px 0;
+}
+
+/* #app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+} */
+
+body {
+  /* background-color: rgba(64, 65, 65, 0.296) !important; */
+  /* background-color: rgba(181, 174, 174, 0.805) !important; */
+  font-family: 'Pangea',sans-serif !important;
+}
+
+/* body {
+  font-family: 'Acumin Pro', sans-serif !important;
+} */
+
+.section-container {
+  padding: 0 64px;
+  /* width: 100%; */
+  max-width: 1920px;
+}
+
+.button {
+  line-height: 20px;
+  height: 54px;
+  font-weight: 700;
+  border: 0;
+  border-radius: 100vmax;
+  text-transform: uppercase;
+  padding: 0.875rem 2.5rem;
+  width: max-content;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button--black {
+  background-color: #000;
+  color: #fff;
+}
+
+.button--white {
+  background-color: #fff;
+  color: #000;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
