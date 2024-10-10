@@ -65,4 +65,44 @@
     ├── Respond to customer reviews                   
     └── Order management
 
+## CDM
+![image](https://github.com/user-attachments/assets/6fe22337-a6da-4678-ab19-3634d250211e)
+
+## Illustrations
+![1](https://github.com/user-attachments/assets/fac7c336-d13c-43e1-800b-36864f169edb)
+
+![2](https://github.com/user-attachments/assets/a3455a8c-2169-4566-9ac9-a5890dad44d9)
+
+![3](https://github.com/user-attachments/assets/698ce61e-a144-4cdd-bdea-78d0e2fc51aa)
+
+![4](https://github.com/user-attachments/assets/88947071-f043-44be-8442-a2ae9ea75c94)
+
+![5](https://github.com/user-attachments/assets/22dd00aa-af3a-42c2-a4cc-4eed70587b36)
+
+![6](https://github.com/user-attachments/assets/ffa56021-258a-42fa-ac07-64825568e35e)
+
+![7](https://github.com/user-attachments/assets/55a16d55-5c98-495c-9f12-14eeee494c14)
+
+![8](https://github.com/user-attachments/assets/3981fbef-9498-4ad2-b48b-0d2b201dc169)
+
+![9](https://github.com/user-attachments/assets/547f2222-37b6-4767-9909-ee290a36e50b)
+
+![10](https://github.com/user-attachments/assets/3cf04d1d-1492-4ac5-9829-f1e9ecf9fb61)
+
+![11](https://github.com/user-attachments/assets/29fe944c-e674-42c5-8849-0c23bab6f5a9)
+
+![image](https://github.com/user-attachments/assets/53573678-2058-4f5c-a9eb-c924457be8c7)
+
+![12](https://github.com/user-attachments/assets/52a887f3-5d11-43b5-98c6-b64bc7a3afeb)
+
+![13](https://github.com/user-attachments/assets/b10e9533-2fc0-496d-b106-5898ca1eb8a6)
+
+![14](https://github.com/user-attachments/assets/9d8150b2-9914-4bde-943c-db716f3c467f)
+
+![15](https://github.com/user-attachments/assets/7efb1ed6-cc38-48d6-aa3b-e99bf1c90943)
+
+
+
+
+
 
