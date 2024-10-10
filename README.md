@@ -41,7 +41,7 @@
     ├── Online payment
     ├── View the delivery process
     ├── Product reviews
-    ├── Chat with the store
+    ├── Chat with the store (contains ChatBot)
     └── View articles
 
      Administrator
