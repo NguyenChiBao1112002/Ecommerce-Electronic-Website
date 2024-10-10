@@ -1,5 +1,17 @@
 # Ecommerce-Electronic-Website
 
+## Technology 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  **..........**
+  
+
 ## Abstract
  <div align="justify"> 
 <b>Context:</b> In recent years, the wave of the digital era of the 4.0 technology era has really come to Vietnam massively and this has brought opportunities and achievements to Vietnam. Faced with these regulatory difficulties, the retail industry in general as well as businesses in trading services in particular must find their own path. Catching the trend, many businesses choose to do business online, in which trading through ecommerce sites always achieves a prominent market share. Trading in this form has many benefits over the traditional form of trading, such as: the customer's purchasing process becomes more convenient when customers do not need to quickly go to the store or buy groceries. more operational tools that can operate 24/7, developing business strategies and promotional programs becomes more effective, when customers have questions, they can be resolved quickly, the choice Product selection in terms of design, color, size,... has also become more diverse, etc. To visually illustrate the large piece of cake in this economic market, the topic of the thesis will build a page E-commerce uses electronic equipment as the main product to illustrate as a typical example.
@@ -52,4 +64,5 @@
     ├── Chat with customers
     ├── Respond to customer reviews                   
     └── Order management
+
 
