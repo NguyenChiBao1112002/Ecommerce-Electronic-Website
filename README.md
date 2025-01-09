@@ -14,7 +14,7 @@
 ## **How to Run**
 ### **Back-end**
 Run `mvn spring-boot:run` command to start the server
-Create database name `fashion-shop` on `XamPP`
+Create database name `electronic-shop` on `XamPP`
 
 ### **Front-end**
 `npm install`
