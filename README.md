@@ -10,7 +10,24 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   **..........**
-  
+
+## **How to Run**
+### **Back-end**
+Run `mvn spring-boot:run` command to start the server
+Create database name `fashion-shop` on `XamPP`
+
+### **Front-end**
+`npm install`
+
+`npm run dev`
+
+`npm run build`
+
+### **Account for VNPAY Payment**
+**Card number:** 9704198526191432198 \
+**Card holder:** NGUYEN VAN A \
+**Issuing date:** 07/15 \
+**OTP:** 123456
 
 ## Abstract
  <div align="justify"> 
