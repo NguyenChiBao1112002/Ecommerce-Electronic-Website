@@ -106,7 +106,7 @@ Create database name `electronic-shop` on `XamPP`
 
 ![10](https://github.com/user-attachments/assets/3cf04d1d-1492-4ac5-9829-f1e9ecf9fb61)
 
-![11](https://github.com/user-attachments/assets/29fe944c-e674-42c5-8849-0c23bab6f5a9)
+![image](https://github.com/user-attachments/assets/ba2eb227-4b41-4d94-8a5c-6451ff6008a4)
 
 ![image](https://github.com/user-attachments/assets/53573678-2058-4f5c-a9eb-c924457be8c7)
 
